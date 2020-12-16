@@ -1,0 +1,28 @@
+2020:12:16@23:36:04(0000000001) < > GpuTest (Linux x64) is starting up...
+2020:12:16@23:36:04(0000000002) < > GpuTest: Cross Platform Graphics Benchmark Utility
+2020:12:16@23:36:04(0000000003) < > (C)2012-2014 Geeks3D (www.geeks3d.com)
+2020:12:16@23:36:04(0000000004) < > Linux information:
+2020:12:16@23:36:04(0000000005) < > - sysname: Linux
+2020:12:16@23:36:04(0000000006) < > - release: 5.4.0-42-generic
+2020:12:16@23:36:04(0000000007) < > - version: #46-Ubuntu SMP Fri Jul 10 00:24:02 UTC 2020
+2020:12:16@23:36:04(0000000008) < > - machine: x86_64
+2020:12:16@23:36:04(0000000009) < > gxl3d codename: Zhald.
+2020:12:16@23:36:04(0000000010) <!> OpenCL support not found: unable to load the OpenCL core library (libOpenCL.so).
+2020:12:16@23:36:04(0000000011) < > gxl3d_plugin_gpu_monitor_gml: GPU monitor plugin for gxl3d.. By JeGX / Geeks3D.com
+2020:12:16@23:36:04(0000000012) < > [GpuMonitor plugin] Linux - CPU name: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, CPU speed: 3722MHz, RAM: 32000MB
+2020:12:16@23:36:04(0000000013) < > [GpuMonitor plugin] Num GPUs found: 1
+2020:12:16@23:36:04(0000000014) < > [GpuMonitor plugin] GPU0 - Intel Corporation HD Graphics 530 (rev 06)
+
+2020:12:16@23:36:04(0000000015) < > [GpuMonitor plugin] GPU0 - PCI codes: 0x8086-0x1912
+2020:12:16@23:36:04(0000000016) < > GPU monitoring thread started.
+2020:12:16@23:36:04(0000000017) < > Display size: width=2560, height=1440
+2020:12:16@23:36:04(0000000018) < > Window size: width=1024, height=640, left=0, top=0
+2020:12:16@23:36:04(0000000019) < > FurMark - OpenGL renderer init OK.
+2020:12:16@23:36:04(0000000020) < > FurMark - VSYNC disabled (xxx_SwapInterval_xxx available).
+2020:12:16@23:36:04(0000000021) < > FurMark - OpenGL version detected: 4.6
+2020:12:16@23:36:04(0000000022) < > FurMark - # OpenGL extensions: 250
+2020:12:16@23:36:04(0000000023) < > FurMark - OpenGL - Renderer model: Mesa Intel(R) HD Graphics 530 (SKL GT2)
+2020:12:16@23:36:04(0000000024) < > FurMark - OpenGL - Renderer vendor: Intel
+2020:12:16@23:36:04(0000000025) < > FurMark - OpenGL - API version: 4.6 (Core Profile) Mesa 20.0.8
+2020:12:16@23:36:04(0000000026) < > FurMark - OpenGL - Shading language version: 4.60
+2020:12:16@23:36:04(0000000027) < > FurMark : init OK.
